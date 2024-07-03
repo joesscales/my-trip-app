@@ -1,0 +1,8 @@
+{
+  "name": "my-trip-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "01675589"
+}
